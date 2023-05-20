@@ -1,0 +1,35 @@
+@font-face {
+    font-family: "Roboto";
+    src: url(RobotoSerif-Medium.ttf);
+}
+.backgroundimage{
+    background-image: url(pexels-photo-7545837.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.contentarea{
+   height: 300px;
+   width: 750px;
+   /* border: solid; */
+   margin: auto;
+   position: relative;
+   left: auto;
+   top: 390px;
+   
+}
+.header{
+    text-align: center;
+    font-weight: 10px;
+    color: white;
+    font-size: 80px;
+    font-family: "Roboto",sans-serif;
+}
+.subcontent{
+    text-align: center;
+    font-weight: 50px;
+    color: white;
+    font-size: 24px;
+    font-family: 'Open Sans',sans-serif;
+    line-height: 35px;
+}
